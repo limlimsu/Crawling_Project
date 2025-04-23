@@ -1,0 +1,17 @@
+
+# Python virtual environment
+myenv/
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+*.code-workspace
+settings.json
+
+# Jupyter Notebook checkpoints
+*.ipynb-checkpoint
+
+# MacOS and Windows system files
+.DS_Store
+Thumbs.db
